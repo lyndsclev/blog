@@ -99,6 +99,25 @@ a:hover {
     height: 250px; 
     object-fit: cover;
     border-radius: 10px;
-    
+    margin-bottom: 10px;    
+}
+
+.blog-overview { 
+    margin: 10px 0 20px; 
+    line-height: 30px;
+}
+
+.btn { 
+    padding: 10px 20px; 
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.7); 
+    color: #000; 
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.btn.dark { 
+    background: #1b1b1b;
+    color: #fff; 
 }
 
